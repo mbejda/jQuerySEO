@@ -1,0 +1,15 @@
+{
+  "name": "grunt_tutorial",
+  "description": "An example of how to set up Grunt for web development.",
+  "author": "Landon Schropp (http://landonschropp.com)",
+  "dependencies": {
+    "grunt": "0.x.x",
+    "grunt-autoprefixer": "0.2.x"
+  },
+  "engine": "node >= 0.10",
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-jsbeautifier": "~0.2.6"
+  }
+}
