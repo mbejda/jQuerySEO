@@ -1,0 +1,4 @@
+jQuerySEO
+=========
+
+jQuery SEO Plugin
